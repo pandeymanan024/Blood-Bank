@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blood-Bank</string>
+    <string name="register_activity">Your details will be published to the community using this app nad you also pledge to donate to help those who are in need of blood</string>
+    <string name="donate_button">Become a Donor</string>
+</resources>
